@@ -1,0 +1,1 @@
+"🚑 #13 - Usuários conseguem acessar contas de outros usuários. Usuários autenticados conseguem acessar contas de outros usuários sem autorização ao modificar parâmetros na URL da aplicação."
