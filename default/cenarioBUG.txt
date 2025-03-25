@@ -1,0 +1,1 @@
+"🐛 #12 - Erro ao tentar salvar configurações do usuário. Ao tentar salvar as configurações na página de perfil, ocorre um erro inesperado e os dados não são persistidos."
